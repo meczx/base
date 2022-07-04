@@ -9,4 +9,9 @@ public static int  sub() {
     return a-b;
     
 }
+public static int mul() {
+    int a,b;
+    return a*b;
+    
+}
 name();
