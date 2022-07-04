@@ -4,3 +4,9 @@ public static void name() {
     System.out.println(c);
     
 }
+public static int  sub() {
+    int a,b;
+    return a-b;
+    
+}
+name();
